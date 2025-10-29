@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/page": "/admin",
+  "/api/health/route": "/api/health",
+  "/api/products/[param]/route": "/api/products/[param]",
+  "/api/products/route": "/api/products",
+  "/dashboard/page": "/dashboard",
+  "/page": "/",
+  "/products/[slug]/page": "/products/[slug]",
+  "/recommendations/page": "/recommendations"
+}

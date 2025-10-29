@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Headphones",
+    "slug": "wireless-headphones",
+    "description": "Premium noise-canceling wireless headphones with 30-hour battery life.",
+    "price": 199.99,
+    "category": "Electronics",
+    "inventory": 45,
+    "lastUpdated": "2024-10-28T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "name": "USB-C Cable",
+    "slug": "usb-c-cable",
+    "description": "Durable USB-C charging cable, 6ft length.",
+    "price": 12.99,
+    "category": "Accessories",
+    "inventory": 200,
+    "lastUpdated": "2024-10-28T10:00:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Portable Speaker",
+    "slug": "portable-speaker",
+    "description": "Waterproof Bluetooth speaker with powerful bass.",
+    "price": 79.99,
+    "category": "Electronics",
+    "inventory": 32,
+    "lastUpdated": "2024-10-28T10:00:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Phone Case",
+    "slug": "phone-case",
+    "description": "Protective phone case with shock absorption.",
+    "price": 24.99,
+    "category": "Accessories",
+    "inventory": 150,
+    "lastUpdated": "2024-10-28T10:00:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Screen Protector",
+    "slug": "screen-protector",
+    "description": "Tempered glass screen protector with bubble-free installation.",
+    "price": 9.99,
+    "category": "Accessories",
+    "inventory": 300,
+    "lastUpdated": "2024-10-28T10:00:00Z"
+  },
+  {
+    "id": "6",
+    "name": "Laptop Stand",
+    "slug": "laptop-stand",
+    "description": "Adjustable aluminum laptop stand for better ergonomics.",
+    "price": 49.99,
+    "category": "Accessories",
+    "inventory": 28,
+    "lastUpdated": "2024-10-28T10:00:00Z"
+  },
+  {
+    "id": "7",
+    "name": "Wireless Mouse",
+    "slug": "wireless-mouse",
+    "description": "Ergonomic wireless mouse with precision tracking.",
+    "price": 34.99,
+    "category": "Electronics",
+    "inventory": 85,
+    "lastUpdated": "2024-10-28T10:00:00Z"
+  },
+  {
+    "id": "8",
+    "name": "USB Hub",
+    "slug": "usb-hub",
+    "description": "7-port USB 3.0 hub for maximum connectivity.",
+    "price": 39.99,
+    "category": "Accessories",
+    "inventory": 55,
+    "lastUpdated": "2024-10-28T10:00:00Z"
+  }
+]
